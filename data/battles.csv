@@ -1,0 +1,35 @@
+name,attacker_king,defender_king,attacker_outcome,battle_type,location,region
+Battle of the Golden Tooth,Joffrey Baratheon,Robb Stark,win,pitched battle,Golden Tooth,The Westerlands
+Battle at the Mummer's Ford,Joffrey Baratheon,Robb Stark,win,ambush,Mummer's Ford,The Riverlands
+Battle of Riverrun,Joffrey Baratheon,Robb Stark,win,pitched battle,Riverrun,The Riverlands
+Battle of the Green Fork,Robb Stark,Joffrey Baratheon,loss,pitched battle,Green Fork,The Riverlands
+Battle of the Whispering Wood,Robb Stark,Joffrey Baratheon,win,ambush,Whispering Wood,The Riverlands
+Battle of the Camps,Robb Stark,Joffrey Baratheon,win,ambush,Riverrun,The Riverlands
+Sack of Darry,Joffrey Baratheon,Robb Stark,win,pitched battle,Darry,The Riverlands
+Battle of Moat Cailin,Balon Greyjoy,Robb Stark,win,pitched battle,Moat Cailin,The North
+Battle of Deepwood Motte,Balon Greyjoy,Robb Stark,win,siege,Deepwood Motte,The North
+Battle of the Stony Shore,Balon Greyjoy,Robb Stark,win,ambush,Stony Shore,The North
+Battle of Torrhen's Square,Robb Stark,Balon Greyjoy,win,pitched battle,Torrhen's Square,The North
+Battle of Winterfell,Balon Greyjoy,Robb Stark,win,ambush,Winterfell,The North
+Sack of Torrhen's Square,Balon Greyjoy,Balon Greyjoy,win,siege,Torrhen's Square,The North
+Sack of Winterfell,Joffrey Baratheon,Robb Stark,win,ambush,Winterfell,The North
+Battle of Oxcross,Robb Stark,Joffrey Baratheon,win,ambush,Oxcross,The Westerlands
+Siege of Storm's End,Stannis Baratheon,Renly Baratheon,win,siege,Storm's End,The Stormlands
+Battle of the Fords,Joffrey Baratheon,Robb Stark,loss,pitched battle,Red Fork,The Riverlands
+Sack of Harrenhal,Robb Stark,Joffrey Baratheon,win,ambush,Harrenhal,The Riverlands
+Battle of the Crag,Robb Stark,Joffrey Baratheon,win,ambush,Crag,The Westerlands
+Battle of the Blackwater,Stannis Baratheon,Joffrey Baratheon,loss,pitched battle,King's Landing,The Crownlands
+Siege of Darry,Robb Stark,Joffrey Baratheon,win,siege,Darry,The Riverlands
+Battle of Duskendale,Robb Stark,Joffrey Baratheon,loss,pitched battle,Duskendale,The Crownlands
+Battle of the Ruby Ford,Joffrey Baratheon,Robb Stark,win,pitched battle,Ruby Ford,The Riverlands
+The Red Wedding,Joffrey Baratheon,Robb Stark,win,ambush,The Twins,The Riverlands
+Siege of Seagard,Robb Stark,Joffrey Baratheon,win,siege,Seagard,The Riverlands
+Battle of Castle Black,Stannis Baratheon,Mance Rayder,loss,siege,Castle Black,Beyond the Wall
+Fall of Moat Cailin,Joffrey Baratheon,Balon Greyjoy,win,siege,Moat Cailin,The North
+Retaking of Deepwood Motte,Stannis Baratheon,Balon Greyjoy,win,pitched battle,Deepwood Motte,The North
+Battle of the Shield Islands,Balon Greyjoy,Joffrey Baratheon,win,pitched battle,Shield Islands,The Reach
+Second Seige of Storm's End,Joffrey Baratheon,Stannis Baratheon,win,siege,Storm's End,The Stormlands
+Siege of Dragonstone,Joffrey Baratheon,Stannis Baratheon,win,siege,Dragonstone,The Stormlands
+Siege of Riverrun,Joffrey Baratheon,Robb Stark,win,siege,Riverrun,The Riverlands
+Siege of Raventree,Joffrey Baratheon,Robb Stark,win,siege,Raventree,The Riverlands
+Siege of Winterfell,Stannis Baratheon,Joffrey Baratheon,loss,siege,Winterfell,The North

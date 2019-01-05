@@ -1,0 +1,33 @@
+Name,Father,Mother,Allegiance
+Renly Baratheon,Steffon Baratheon,Cassana Estermont,House Baratheon
+Robert Baratheon,Steffon Baratheon,Cassana Estermont,House Baratheon
+Stannis Baratheon,Steffon Baratheon,Cassana Estermont,House Baratheon
+Steffon Baratheon,PATRIARCH,,House Baratheon
+Cassana Estermont,,MATRIARCH,House Baratheon
+Tywin Lannister,Tytos Lannister,,House Lannister
+Cersei Lannister,Tywin Lannister,Joanna Lannister,House Lannister
+Jaime Lannister,Tywin Lannister,Joanna Lannister,House Lannister
+Tyrion Lannister,Tywin Lannister,Joanna Lannister,House Lannister
+Joffrey Baratheon,Jaime Lannister,Cersei Lannister,House Lannister
+Myrcella Baratheon,Jaime Lannister,Cersei Lannister,House Lannister
+Tytos Lannister,PATRIARCH,,House Lannister
+Joanna Lannister,,MATRIARCH,House Lannister
+Catelyn Tully,,MATRIARCH,House Stark
+Arya Stark,Eddard Stark,Catelyn Tully,House Stark
+Bran Stark,Eddard Stark,Catelyn Tully,House Stark
+Rickon Stark,Eddard Stark,Catelyn Tully,House Stark
+Robb Stark,Eddard Stark,Catelyn Tully,House Stark
+Sansa Stark,Eddard Stark,Catelyn Tully,House Stark
+Eddard Stark,PATRIARCH,,House Stark
+Aerys II Targaryen,Aegon V Targaryen,,House Targaryen
+Jaehaerys Targaryen,Aegon V Targaryen,,House Targaryen
+Daenerys Targaryen,Aerys II Targaryen,Rhaella Targaryen,House Targaryen
+Rhaegar Targaryen,Aerys II Targaryen,Rhaella Targaryen,House Targaryen
+Viserys Targaryen,Aerys II Targaryen,Rhaella Targaryen,House Targaryen
+Maekar Targaryen,Daeron II Targaryen,Myriah Martell,House Targaryen
+Aegon V Targaryen,Maekar Targaryen,Dyanna Dayne,House Targaryen
+Rhaella Targaryen,,,House Targaryen
+Dyanna Dayne,,MATRIARCH,House Targaryen
+Daeron II Targaryen,PATRIARCH,,House Targaryen
+Jon Snow,Eddard Stark,Lyanna Stark,House Stark
+Lyanna Stark,,,House Stark
