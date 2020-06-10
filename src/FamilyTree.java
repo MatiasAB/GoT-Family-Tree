@@ -1,4 +1,4 @@
-package project3;
+package src;
 
 /** FamilyTree class: Each instance of this class stores a FamilyTree consisting of members from a specific instance
  * of the House object.*/

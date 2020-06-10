@@ -1,9 +1,9 @@
-package project3;
+package src;
 
 import java.util.Collections;
 import java.util.List;
 
-import project3.Character;
+import src.Character;
 
 import java.util.*;
 

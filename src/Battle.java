@@ -1,4 +1,4 @@
-package project3;
+package src;
 
 /** Battle class: Each instance of this class stores a Battle from the data read in the GameofThrones class. */
 

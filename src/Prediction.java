@@ -1,4 +1,4 @@
-package project4;
+package src;
 
 /** Prediction class: Each instance of this class stores a Character and a float representing the Character's probability
  * of dying based on the data read in the GameofThrones class. */

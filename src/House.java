@@ -1,4 +1,4 @@
-package project3;
+package src;
 
 /** House class: Each instance of this class stores a House based off the allegiances of the Characters in the 
  * Character list.*/

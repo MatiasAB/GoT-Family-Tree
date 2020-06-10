@@ -1,4 +1,4 @@
-package project3;
+package src;
 
 /** Character class: Each instance of this class stores a Character from the data read in the GameofThrones class. */
 
@@ -35,6 +35,13 @@ public class Character implements Comparable<Character> {
 		this.cbat = bat;
 	}
 
+	public Character(String name) {
+		//secondary constructor
+		this.name = name;
+		this.calle = "none";
+		this.cbat = new sLinkedList<Battle>();
+	}
+
 	@Override
 	public int compareTo(Character arg0) {
 		//Compares Characters by name.
@@ -49,10 +56,15 @@ public class Character implements Comparable<Character> {
 	
 	public String toString() {
 		//Creates and returns a String representative of the Character.
-		String str = this.name + " with allegiance to " + this.calle;
+		String str = this.name;
+		if (!this.calle.equalsIgnoreCase("none")){
+			str+= " with allegiance to " + this.calle;
+		}
 		if (this.cbat !=null) {
 			this.cbat.sort();
 			str += "\n" + this.cbat.toString();
+		} else {
+			str += "\n";
 		}
 		return str;
 	}
